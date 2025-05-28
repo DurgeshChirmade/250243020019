@@ -1,0 +1,1 @@
+insert into student values(101,"AAA",78.65);

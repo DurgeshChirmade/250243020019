@@ -1,0 +1,1 @@
+create table student(rno int primary key,name varchar(100),per float);
